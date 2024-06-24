@@ -1,14 +1,11 @@
 {
-  "name": "my-npm-package",
-  "version": "1.0.0",
+  "name": "@gre212/my-npm-package",
+  "version": "0.0.0",
   "description": "my first npm package",
   "main": "index.js",
-  "publishConfig": {
-    "@Gre212:registry": "https://npm.pkg.github.com"
-  },
   "repository": {
     "type": "git",
-    "url": "git://github.com/scope/my-npm-package.git"
+    "url": "https://github.com/Gre212/my-npm-package.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
