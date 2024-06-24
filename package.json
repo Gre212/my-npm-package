@@ -6,6 +6,10 @@
   "publishConfig": {
     "@Gre212:registry": "https://npm.pkg.github.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/scope/my-npm-package.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
